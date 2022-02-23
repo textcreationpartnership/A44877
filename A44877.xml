@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Hue and cry after the abdicated B--- of E-- who has lately withdrawn himself from justice.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44877</idno>
+            <idno type="STC">Wing H3286</idno>
+            <idno type="STC">ESTC R15124</idno>
+            <idno type="EEBO-CITATION">12430948</idno>
+            <idno type="OCLC">ocm 12430948</idno>
+            <idno type="VID">61949</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44877)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61949)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 279:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Hue and cry after the abdicated B--- of E-- who has lately withdrawn himself from justice.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Golding,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>B--- of E-- is the Bishop of Ely [i.e. Francis Turner].</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Advertisement: p. 4.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Turner, Francis, 1638?-1700.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:61949:1"/>
+            <!-- PDF PAGE 7 -->
+            <pb n="1" facs="tcp:61949:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <head>A Hue and Cry AFTER THE <hi>Abdicated B— of E—</hi> Who has lately withdrawn himſelf from Juſtice.</head>
+            <p>THeſe are to give Notice, That whereas a Court-fawning, Athe— Indulging, Falſe-hearted, Selfiſh, Matchivilian, Inſinuating, <hi>Levitical Jacobite</hi> has lately withdrawn himſelf from the places of his uſual Reſidence (God knows whi<g ref="char:EOLhyphen"/>ther!) Theſe are to give Notice, That if any man<g ref="char:EOLhyphen"/>ner of Perſon, Man, Woman, or Child, Proteſtant or Papiſt, Chriſtian or Pagan, Williamite or Jaco<g ref="char:EOLhyphen"/>bite, can give any Tidings of the ſaid <hi>Non-obedient, Active, Reſiſting</hi> Reverend Father, ſo that he be brought back alive, to receive the juſt Reward of his late Actions, ſhall have a <hi>Pecuniary</hi> Gratification of 5000 French Crowns.</p>
+            <p>
+               <pb n="2" facs="tcp:61949:2"/>
+               <!-- PDF PAGE 8 -->
+But that you may not miſtake, either in the <hi>Per<g ref="char:EOLhyphen"/>ſon or Character,</hi> I will deſcribe him in his proper Colours, which are as changeable as his Religion and Allegiance.</p>
+            <p>This <hi>Grand Incendiary</hi> of credulous Bigotiſm, (con<g ref="char:EOLhyphen"/>trary to the Principles of a good Chriſtian) chang'd, like the Camelion, to the prevailing Colours, and <hi>(like a Lobſter ſtew'd in his own Sweat)</hi> turn'd in a moment from Black to Red. And now you will find the pretended <hi>Holy Father</hi> of the W—d transform'd into a Bully of the Sword.</p>
+            <p>This Impoſtor of his Holy Order, this Shame to his moſt excellent Profeſſion, and ſcandal to all Pro<g ref="char:EOLhyphen"/>teſtants, particularly <hi>to the beſt conſtituted Church in the World,</hi> of which he lately pretended himſelf a Member, you will find him in the Habit of a Soldier; his Black Gown and <hi>Laun</hi> converted into a Scarlet Cloak, his <hi>Holy Veſt</hi> into an embroidered Coat, his Canonical Girdle into a glittering fring'd Scarf, and Sable Hat-band into a Scarlet Feather.</p>
+            <p>In this Heroick Equipage (they ſay) he was met upon the Road, in Company with ſeveral of his deluded <hi>Jacobites,</hi> taking his way to the neareſt Sea-Port for <hi>France,</hi> in order to appear <hi>In propria Perſona</hi> at the <hi>Gallick Court,</hi> to give his two Maſters St. <hi>Lewis</hi> and St. <hi>James</hi> a Verbal Account at large of what was more briefly contained in his <hi>two Treaſon<g ref="char:EOLhyphen"/>able Letters</hi> lately ſeiz'd.</p>
+            <p>He is long Viſag'd, lank black Hair of his own, (but now in a Flaxen Perriwig) indifferent tall and ſlender, fawning Looks, flattering Smiles, a falſe Heart, deceitful Tongue.</p>
+            <p>He cares no more for the Church than for the Al<g ref="char:EOLhyphen"/>choran, but yet he Worſhips the Church-Lands: He's a main Incendiary and Politick <hi>Jacobite,</hi> one
+<pb n="3" facs="tcp:61949:2"/>
+               <!-- PDF PAGE 8 -->
+who for a long time has made it his Buſineſs to <hi>Buoy up</hi> and encourage credulous Bigots, that pin their Faith, without Examination, upon their Inſtructors, and believe that all they ſay is Goſpel. He loves to ſhelter himſelf under the Wings of Tyranny and Po<g ref="char:EOLhyphen"/>pery, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great Admirer of his Young Maſter <hi>Helioga<g ref="char:EOLhyphen"/>valus,</hi> His Welſh Highneſs. He cares not whom he amuſes, and whoſe Example he follows, ſo he may but have the Honour to ſtand fair with his Maſters <hi>Lewis</hi> and <hi>James.</hi> He is a Don of King, <hi>James</hi>'s own peculiar Promotion when Duke of <hi>York,</hi> and one of his Cabinet-Council during the Reign of King <hi>Charles</hi> the Second, at which time he could never ſtudy for hearkning after News; in Parliament time a conſtant Man crowding in the Court of Requeſts, or Lobby of the Houſe of Lords, cringing and fawn<g ref="char:EOLhyphen"/>ing on ſome Grand Debauchee or Atheiſtical Bravo.</p>
+            <p>He was lately <hi>Chair-man</hi> to a Numerous Club or Gang of <hi>Jacobites</hi> that haunt — Houſe in Shoals, where they ſit croaking, like Frogs in <hi>March,</hi> againſt the Government.</p>
+            <p>He Idolizeth King <hi>James</hi> as the Heathens did their Falſe Gods, firſt make the Idol, and then Worſhip it. French Tyranny's the <hi>Moloch</hi> to which he would offer up his own Poſterity, and his own Native Country the Place which he would make his Valley <hi>Gehinnon.</hi> He pretends to be a son of the <hi>Church of England,</hi> but uſes her no better than a Step-mother, to offer the Price of her Preſervation for the Re<g ref="char:EOLhyphen"/>demption of her profeſs'd Enemy.</p>
+            <p>In fine, He is one of thoſe <hi>I evitical Jacobites,</hi> that believe a Popiſh Prince may do any thing, but abridg them of their Power; if he does that, he is an <hi>
+                  <g ref="char:V">Ʋ</g>zziah,</hi> he has invaded their Properties, and
+<pb n="4" facs="tcp:61949:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 9 -->
+muſt be turn'd out of the Temple with a wither'd Arm; and then 'tis lawful to ſend <hi>for a Prince of Orange</hi> to help them, 'tis lawful to devolve the Go<g ref="char:EOLhyphen"/>vernment into his Hands, and humbly to implore him to take care of their Ark. But no ſooner are their Properties ſafe, and King <hi>William</hi> by the Ge<g ref="char:EOLhyphen"/>neral Conſent of the Nation advanc'd in his own Right to the Vacant Throne; but they are offended at his Proteſtant Zeal, tell him they never ſent for him to make him their Sovereign, call him King <hi>de Facto,</hi> ſlight his Protection, and rather than acknowledge their Deliverer, would put on their <hi>Philiſtine</hi> Yoak again. Would you go in purſuit of this <hi>Prodigy of Nature,</hi> this Grand Incendiary of all our Troubles, who has endeavour'd to kindle the Fire, and left us to put out the Flame, keep this Paper by you, and when you meet him, you need not fear know<g ref="char:EOLhyphen"/>ing the Perſon; and when taken, deliver him into the Hands of Juſtice, and you'l certainly receive the above-mentioned Sum (as a juſt Reward) for ſo me<g ref="char:EOLhyphen"/>ritorious a Service.</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Books newly Publiſh'd.</head>
+            <p>AN Account of the <hi>late Horrid Conſpiracy</hi> to Depoſe their Preſent Ma<g ref="char:EOLhyphen"/>jeſties K. <hi>William</hi> and Q. <hi>Mary,</hi> to bring in the <hi>French,</hi> and the late K. <hi>James,</hi> and ruin the City of <hi>London;</hi> with a Relation of the miracu<g ref="char:EOLhyphen"/>lous Diſcovery thereof. Alſo ſome brief Reflections on the <hi>Tryals of the Lord</hi> Preſton <hi>and Major</hi> Aſhton, who were chiefly concern'd therein, and found Guilty. By a Gentleman who was preſent at their Trials. <hi>Price</hi> 6 d.</p>
+            <p>
+               <hi>The Hiſtory of the Royal Congreſs at the</hi> Hague, together with an Ac<g ref="char:EOLhyphen"/>count of the Glorious Canopy and Chair of State, the ſeveral curious and admirable Fire-works, the many <hi>Triumphal</hi> Arches, and of the other vaſt Preparations made for his Majeſty of <hi>Great Britain;</hi> with an Exact Draught of the manner of K. <hi>William</hi>'s <hi>Entry</hi> into the <hi>Hague,</hi> and reception by the <hi>States General.</hi> Tranſlated from the <hi>Dutch</hi> Copy Printed at <hi>Leyden. Price</hi> 6 d. Both Sold by the Bookſellers of <hi>London</hi> and <hi>Weſt<g ref="char:EOLhyphen"/>minſter.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>E. Golding.</hi> 1691</p>
+            <pb facs="tcp:61949:3"/>
+            <!-- PDF PAGE 9 -->
+         </div>
+      </back>
+   </text>
+</TEI>
